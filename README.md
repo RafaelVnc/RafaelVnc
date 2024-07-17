@@ -1,5 +1,5 @@
 # Hello World!
-Hello there! My name is Rafael Oliveira Venancio, I´m a student of Analysis and Systems Development at [Centro Universitário de Brasília](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi634e6mc-FAxUpDbkGHQU9A3YQFnoECAcQAQ&url=https%3A%2F%2Fwww.uniceub.br%2F&usg=AOvVaw0TbSk6nDGc08eChcMUv3_w&opi=89978449). I love technology and to learn new things. I´m thinking about become a back-end dev or follow in the area of AI development.
+Hello there! My name is Rafael Oliveira Venancio, I´m a student of Analysis and Systems Development at [Centro Universitário de Brasília](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi634e6mc-FAxUpDbkGHQU9A3YQFnoECAcQAQ&url=https%3A%2F%2Fwww.uniceub.br%2F&usg=AOvVaw0TbSk6nDGc08eChcMUv3_w&opi=89978449). I love technology and to learn new things. I´m thinking about become a back-end dev or follow in the area of DevOps.
 
 ## ⚙️Skills:
 ![Java](https://img.shields.io/badge/java-%23CC0000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
