@@ -16,6 +16,7 @@ Hello there! My name is Rafael Oliveira Venancio, I´m a student of Analysis and
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Shell Script](https://img.shields.io/badge/shell_script-%232C5263.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🌐Languages:
